@@ -5,5 +5,4 @@
 layout: home
 title: "Home"
 ---
-
-Testing.
+See my posts below in reverse chronological order!
