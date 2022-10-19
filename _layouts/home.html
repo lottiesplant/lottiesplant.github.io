@@ -34,6 +34,8 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        <!-- Added post content to home page: -->
+        {{ post.content }}
       </li>
       {%- endfor -%}
     </ul>
