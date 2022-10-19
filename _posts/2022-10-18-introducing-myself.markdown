@@ -10,7 +10,7 @@ I’m Lottie. I started this website because I have a lot of thoughts and feelin
 
 I’m going to write however I want as I explore my voice. I’m actually not much of a writer beyond my journal and some technical reports. Yet my mind is screaming to get some things out, so let’s just hope I get better over time. Some posts will be long, some short, and topics might vary wildly in the end. My goal is just to write!
 
-You’ll see me try nature writing as well because I’m very inspired by the people who can turn science into poetry. My favorite book is *Pilgrim at Tinker Creek* by Annie Dillard. Whenever I read it, I want to write like she does. She makes the world worth noticing.
+You’ll see me try nature writing as well. My favorite book is *Pilgrim at Tinker Creek* by Annie Dillard. Whenever I read it, I want to write like she does. She makes the world worth noticing.
 
 My experiences are heavily influenced by identities I was born with: white, cis, female, American, pansexual (though that took a minute to understand, and I’m criminally straight-presenting these days). Being a medium-sized white woman, my experience with manic episodes was/is a lot different than I imagine it would be as, say, a large black man. I’m generally not considered threatening, which ironically puts *me* in less danger (...sort of).
 
