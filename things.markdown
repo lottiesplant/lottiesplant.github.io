@@ -1,0 +1,7 @@
+---
+layout: page
+title: "things that I like"
+permalink: /things/
+---
+
+[Hyperbole and a Half -- A quirky and true comic/story about depression](http://hyperboleandahalf.blogspot.com/2013/05/depression-part-two.html?m=1)
