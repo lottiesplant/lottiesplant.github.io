@@ -2,6 +2,7 @@
 layout: post
 title:  "Introducing Myself"
 date:   2022-10-18 20:20:00 -0700
+categories: [ intro, bipolar disorder ]
 ---
 
 Hello!
