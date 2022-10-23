@@ -3,7 +3,7 @@ layout: post
 title:  "Aspiring to Lies"
 date:   2022-10-22 19:04:00 -0700
 categories: [ bipolar disorder, mania, disability ]
-—
+---
 
 I had a huge blow to a dream of mine recently. It was an incredible opportunity to break into an adventurous and fulfilling career– but the circumstances turned out to be dangerous to my mental health. Obstacles such as isolation, persistent daylight, lack of access to my therapist and support network, and bad roommates combined into a comedy of errors that perhaps an able-minded person could handle. It was very nearly disastrous for me. Since then, I’ve been grappling with the realization that my condition is actually a disability. My options will be limited by it, no matter how hard I try. I’m in mourning.
 
