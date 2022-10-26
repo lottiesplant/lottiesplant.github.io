@@ -12,6 +12,21 @@ permalink: /topics/
     <h3><a href="{{ site.baseurl }}/topics/{{ category_name | slugify}}">{{ category_name }}</a></h3>
   </div>
   {% endfor %}
+</div>
+
+<!-- 
+Some BS that doesn't work yet:
+
+<div id="archives">
+  {% for category in site.static_files %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    {% if category.path == '_category/{{category_name | slugify}}.md'}
+      here
+    {% else %}
+      not here
+    {% endif %}
+  {% endfor %}
+</div> -->
 
 <!-- Old code that lists categories with posts repeated: -->
 <!-- {% for category in site.categories %}
@@ -29,4 +44,3 @@ permalink: /topics/
     {% endfor %}
   </div>
 {% endfor %} -->
-</div>
