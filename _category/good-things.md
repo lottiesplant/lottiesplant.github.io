@@ -1,4 +1,4 @@
 ---
 tag: good things
-permalink: "/topic/good-things"
+permalink: "/topics/good-things"
 ---

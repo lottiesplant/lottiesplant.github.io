@@ -1,4 +1,4 @@
 ---
 tag: tidbits
-permalink: "/topic/tidbits"
+permalink: "/topics/tidbits"
 ---

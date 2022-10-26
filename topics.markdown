@@ -9,7 +9,7 @@ permalink: /topics/
   {% for category in site.categories %}
   <div>
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    <h3><a href="{{ site.baseurl }}/topic/{{ category_name | slugify}}">{{ category_name }}</a></h3>
+    <h3><a href="{{ site.baseurl }}/topics/{{ category_name | slugify}}">{{ category_name }}</a></h3>
   </div>
   {% endfor %}
 

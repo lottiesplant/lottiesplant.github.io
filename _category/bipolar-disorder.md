@@ -1,4 +1,4 @@
 ---
 tag: bipolar disorder
-permalink: "/topic/bipolar-disorder"
+permalink: "/topics/bipolar-disorder"
 ---

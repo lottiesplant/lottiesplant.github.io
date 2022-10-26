@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+{{ content }}
 
 <div class="blog list">
-	<h1>Filed Under <small>#{{ page.tag }}</small></h1>
+	<h1>Topic: {{ page.tag }}</h1>
 
 	{% for post in site.categories[page.tag] %}
 		<article class="archive-item">
