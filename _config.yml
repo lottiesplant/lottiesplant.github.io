@@ -30,10 +30,24 @@ description: >- # this means to ignore newlines until "baseurl:"
 ### My stuff
 permalink: /:year/:month/:day/:title:output_ext
 
+## category pages? from here: https://kylewbanks.com/blog/creating-category-pages-in-jekyll-without-plugins
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
 ### Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -3,9 +3,18 @@ layout: page
 title: "topics"
 permalink: /topics/
 ---
+<h1>Many of these links are currently nonexistent. Tx for your patience!</h1>
 
 <div id="archives">
-{% for category in site.categories %}
+  {% for category in site.categories %}
+  <div>
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <h3><a href="{{ site.baseurl }}/topic/{{ category_name | slugify}}">{{ category_name }}</a></h3>
+  </div>
+  {% endfor %}
+
+<!-- Old code that lists categories with posts repeated: -->
+<!-- {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
@@ -19,5 +28,5 @@ permalink: /topics/
     </article>
     {% endfor %}
   </div>
-{% endfor %}
+{% endfor %} -->
 </div>
