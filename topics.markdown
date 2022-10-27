@@ -2,6 +2,7 @@
 layout: page
 title: "topics"
 permalink: /topics/
+order: 4
 ---
 
 <div>
