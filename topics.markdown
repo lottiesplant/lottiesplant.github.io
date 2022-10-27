@@ -3,6 +3,17 @@ layout: page
 title: "topics"
 permalink: /topics/
 ---
+
+<div>
+
+  <!-- testing things-->
+  {% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    {% capture category_link %}/_category/{{ category_name | slugify }}.md{% endcapture %}
+    <p>slugify: {{ category_name | slugify }} # name: {{ category_name }} # link: {{ category_link }}</p>
+  {% endfor %}
+</div>
+
 <h1>Many of these links are currently nonexistent. Tx for your patience!</h1>
 
 <div id="archives">
