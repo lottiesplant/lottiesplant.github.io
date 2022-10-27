@@ -5,30 +5,31 @@ permalink: /topics/
 ---
 
 <div>
-  <!-- add tags together with ',' in _category -->
+  <!-- make a long string of all the tags of pages in _category folder (a collection) -->
   {% for category_page in site.category %}
     {% capture categories_with_pages %}
+    {% capture page_tag %}{{ category_page.tag }}{% endcapture %}
       {% if categories_with_pages %}
-        {{ categories_with_pages | join: ","}},{{ category_page.tag }}
+        {{ categories_with_pages | join: ","}}{{ page_tag }}
       {% else %}
-        {{ category_page.tag }}
+        {{ page_tag }}
       {% endif %}
     {% endcapture %}
   {% endfor %}
-  <!-- split tags into list -->
-  {% assign page_list = categories_with_pages | split: "," | uniq %}
-  {% for item in page_list %}
-    <p>item: {{ item }}</p>
-  {% endfor %}
-  <p>###############################</p>
+
+  <!-- show which pages in categories_with_pages string -->
   {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    {% capture category_link %}/_category/{{ category_name | slugify }}.md{% endcapture %}
-    <p>slugify: {{ category_name | slugify }} # name: {{ category_name }} # link: {{ category_link }}</p>
+    {% if categories_with_pages contains category_name %}
+      <h3><a href="{{ site.baseurl }}/topics/{{ category_name | slugify}}">{{ category_name }}</a></h3>
+    {% else %}
+      <h3> {{ category_name }} <small>does not have a page yet :(</small></h3>
+    {% endif %}
   {% endfor %}
 </div>
 
-<h1>Many of these links are currently nonexistent. Tx for your patience!</h1>
+<!-- old: lists all links regardless of page existence -->
+<!-- <h1>Many of these links are currently nonexistent. Tx for your patience!</h1>
 
 <div id="archives">
   {% for category in site.categories %}
@@ -37,7 +38,7 @@ permalink: /topics/
     <h3><a href="{{ site.baseurl }}/topics/{{ category_name | slugify}}">{{ category_name }}</a></h3>
   </div>
   {% endfor %}
-</div>
+</div> -->
 
 <!-- Old code that lists categories with posts repeated: -->
 <!-- {% for category in site.categories %}
