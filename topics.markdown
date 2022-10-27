@@ -5,8 +5,22 @@ permalink: /topics/
 ---
 
 <div>
-
-  <!-- testing things-->
+  <!-- add tags together with ',' in _category -->
+  {% for category_page in site.category %}
+    {% capture categories_with_pages %}
+      {% if categories_with_pages %}
+        {{ categories_with_pages | join: ","}},{{ category_page.tag }}
+      {% else %}
+        {{ category_page.tag }}
+      {% endif %}
+    {% endcapture %}
+  {% endfor %}
+  <!-- split tags into list -->
+  {% assign page_list = categories_with_pages | split: "," | uniq %}
+  {% for item in page_list %}
+    <p>item: {{ item }}</p>
+  {% endfor %}
+  <p>###############################</p>
   {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
     {% capture category_link %}/_category/{{ category_name | slugify }}.md{% endcapture %}
