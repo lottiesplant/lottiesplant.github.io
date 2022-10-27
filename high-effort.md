@@ -1,8 +1,8 @@
 ---
 layout: category
-tag: high quality
-title: "high quality"
-permalink: /topics/high-quality
+tag: high effort
+title: "high effort"
+permalink: /topics/high-effort
 ---
 
 <h1>Heh heh... nothing to see here yet.</h1>
