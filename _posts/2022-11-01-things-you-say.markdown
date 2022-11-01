@@ -2,7 +2,7 @@
 layout: post
 title:  "The things you say"
 date:   2022-11-01 12:53:00 -0700
-categories: [ short, bipolar disorder ]
+categories: [ bipolar disorder ]
 ---
 
 “Her dad– yeah, the artist– I think he has something going on, y’know?” (none of your business)
