@@ -4,7 +4,7 @@ layout: default
 {{ content }}
 
 <div class="blog list">
-	<h1>Topic: {{ page.tag }}</h1>
+	<h1>Topic: {{ page.tag }} <small>-- {{ page.headline }}</small></h1>
 
 	{% for post in site.categories[page.tag] %}
 		<article class="archive-item">
