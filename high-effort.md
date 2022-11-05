@@ -7,5 +7,4 @@ order: 3
 ---
 
 <h1>Heh heh... nothing to see here yet.</h1>
-<p>--------------------------------------------</p>
 
