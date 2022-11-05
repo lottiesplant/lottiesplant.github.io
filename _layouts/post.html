@@ -12,7 +12,7 @@ layout: default
       {% else %}
         {% assign categories = page.categories %}
       {% endif %}
-      ({{categories | join:', '}})
+      categories: {{categories | join:', '}}
       </p>
     </div>
     <p class="post-meta">
