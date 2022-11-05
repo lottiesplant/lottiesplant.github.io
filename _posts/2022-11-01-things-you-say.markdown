@@ -5,9 +5,9 @@ date:   2022-11-01 12:53:00 -0700
 categories: [ bipolar disorder ]
 ---
 
-“Her dad– yeah, the artist– I think he has something going on, y’know?” (none of your business)
+“Her dad– yeah, the artist– I think he has something *going on*, y’know?” (none of your business)
 
-“His aunt’s coming over this weekend. Yeah, the one with the issues. Ugh” (are you going to talk about me like that?)
+“His aunt’s coming over this weekend. Yeah, the one with the *issues*. Ugh” (are you going to talk about me like that?)
 
 “I’m so sorry you have to live with bipolar disorder” (actually you’ve known me my entire life untreated and this diagnosis is a relief because now I can fix it so you should be apologizing for all the years you ignored it before now)
 
