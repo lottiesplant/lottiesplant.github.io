@@ -2,7 +2,7 @@
 layout: post
 title:  "Seeing Two Worlds (a dream I had once)"
 date:   2022-11-04 18:58:00 -0700
-categories: [ tidbits ]
+categories: [ tidbits, short stories ]
 ---
 
 I had an interesting dream. Here's my attempt to write it out:
