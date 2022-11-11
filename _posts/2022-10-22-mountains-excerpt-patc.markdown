@@ -2,7 +2,7 @@
 layout: post
 title:  "The mountains are going on and off like neon signs (excerpt from PaTC)"
 date:   2022-10-22 19:22:00 -0700
-categories: [ good things ]
+categories: [ good things, other people's stuff ]
 ---
 
 An excerpt from my favorite book, *Pilgrim at Tinker Creek* by Annie Dillard (I’ll shorten to PaTC sometimes). This is when I knew I loved this book:
