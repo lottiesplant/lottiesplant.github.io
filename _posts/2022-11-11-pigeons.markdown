@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "We are but superstitious pigeons"
+date:   2022-11-11 10:26:00 -0700
+categories: [ passing thoughts, silly ]
+---
+
+I don't remmember which podcast I heard about this from, but ['Superstition' in the Pigeon by B.F. Skinner](https://psych.hanover.edu/classes/learning/papers/Skinner%20Superstion%20%281948%20orig%29.pdf) is apparently a psychology classic.
+
+In short, pigeons were given food by a "hopper" mechanism at regular intervals (say, fifteen seconds). The pigeons, however, became superstitions: Whatever they happened to be doing at the time became their ritual to summon food. For example, one pigeon might have been bobbing its head when food appeared, and so kept bobbing its head in an attempt to summon food. Another pigeon might have been pecking at a corner, or turning in circles, etc. Here's the direct quote:
+
+> The bird happens to be executing some response as the hopper appears; as a result it tends to repeat this response.
+
+In long, there's more scientific variance. You can go read the article if you want to know more.
+
+This is a pretty hilarious metaphor for what I see people do sometimes. For me, it's mostly with computers. Oh, I held the power button for this long and the update worked, oh I plugged it in this way and it charged, oh I uninstalled this other thing and my website worked for some reason. You get the idea.
+
+So, I say, we are but superstition pigeons.
+
