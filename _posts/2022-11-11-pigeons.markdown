@@ -7,7 +7,7 @@ categories: [ passing thoughts, silly ]
 
 I don't remember which podcast I heard about this from, but ['Superstition' in the Pigeon by B.F. Skinner](https://psych.hanover.edu/classes/learning/papers/Skinner%20Superstion%20%281948%20orig%29.pdf) is apparently a psychology classic.
 
-In short, pigeons were given food by a "hopper" mechanism at regular intervals (say, fifteen seconds). The pigeons, however, became superstitions: Whatever they happened to be doing at the time became their ritual to summon food. For example, one pigeon might have been bobbing its head when food appeared, and so kept bobbing its head in an attempt to summon food. Another pigeon might have been pecking at a corner, or turning in circles, etc. Here's the direct quote:
+In short, pigeons were given food by a "hopper" mechanism at regular intervals (say, fifteen seconds). The pigeons, however, became superstitious: Whatever they happened to be doing at the time became their ritual to summon food. For example, one pigeon might have been bobbing its head when food appeared, and so kept bobbing its head in an attempt to summon food. Another pigeon might have been pecking at a corner, or turning in circles, etc. Here's the direct quote:
 
 > The bird happens to be executing some response as the hopper appears; as a result it tends to repeat this response.
 
