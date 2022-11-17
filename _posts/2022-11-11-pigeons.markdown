@@ -9,7 +9,9 @@ I don't remember which podcast I heard about this from, but ['Superstition' in t
 
 In short, pigeons were given food by a "hopper" mechanism at regular intervals (say, fifteen seconds). The pigeons, however, became superstitious: Whatever they happened to be doing at the time became their ritual to summon food. For example, one pigeon might have been bobbing its head when food appeared, and so kept bobbing its head in an attempt to summon food. Another pigeon might have been pecking at a corner, or turning in circles, etc. Here's the direct quote:
 
-> The bird happens to be executing some response as the hopper appears; as a result it tends to repeat this response.
+<div class="speechquote">
+<p>"The bird happens to be executing some response as the hopper appears; as a result it tends to repeat this response."</p>
+</div>
 
 In long, there's more scientific variance. You can go read the article if you want to know more.
 
