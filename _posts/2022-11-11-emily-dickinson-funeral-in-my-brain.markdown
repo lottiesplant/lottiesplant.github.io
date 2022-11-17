@@ -69,9 +69,11 @@ Beautiful. It reminds me to look for the little flutter in my chest.
 
 And one last thought on this topic-- there's a line in that first poem that reminded me of a few passages in [PatC](https://en.wikipedia.org/wiki/Pilgrim_at_Tinker_Creek). Dickinson's line, "As all the Heavens were a Bell," --
 
->"And the bell under my ribs rang a true note, a flourish as of blended horns, clarion, sweet, and making a long dim sense I will try at length to explain. Flung is too harsh a word for the rush of the world. Blow is more like it, but blown by a generous, un-ending breath."
->
->From the chapter *The Waters of Separation*
+<div class="bookquote">
+<p>"And the bell under my ribs rang a true note, a flourish as of blended horns, clarion, sweet, and making a long dim sense I will try at length to explain. Flung is too harsh a word for the rush of the world. Blow is more like it, but blown by a generous, un-ending breath."</p>
+
+<p align="right">From the chapter <i>The Waters of Separation</i></p>
+</div>
 
 Dillard talks about that Bell a few times throughout the book. My (future) father in law wrote an inscription to me in the front of the book, and pointed to this line:
 
