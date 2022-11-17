@@ -1,0 +1,49 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+//
+// Quoteblocks
+//
+blockquote {
+    color: $grey-color;
+    border-left: 4px solid $grey-color-light;
+    padding-left: $spacing-unit / 2;
+    @include relative-font-size(1.125);
+    letter-spacing: -1px;
+    font-style: normal;
+  
+    > :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+.speechquote {
+    color: $grey-color;
+    border-left: 0px solid $grey-color-light;
+    padding-left: $spacing-unit*2;
+    padding-right: $spacing-unit*2;
+    @include relative-font-size(1.125);
+    letter-spacing: -1px;
+    font-style: normal;
+  
+    > :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+.shortstory {
+    color: $grey-color;
+    border-left: 0px solid $grey-color-light;
+    padding-left: $spacing-unit*2;
+    padding-right: $spacing-unit*2;
+    @include relative-font-size(1.125);
+    letter-spacing: -1px;
+    font-style: normal;
+    margin-top: $spacing-unit;
+  
+    > :last-child {
+      margin-bottom: $spacing-unit;
+    }
+}
