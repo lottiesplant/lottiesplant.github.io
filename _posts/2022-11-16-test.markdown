@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "test test test"
-date:   2022-11-16 21:18:00 -0700
+date:   2022-06-16 21:18:00 -0700
 ---
 
 <blockquote>
@@ -11,4 +11,11 @@ date:   2022-11-16 21:18:00 -0700
 
 <div class="speechquote">
 <p>This is a speech quote look at all these words ook at all these words ook at all these words ook at all these words ook at all these words</p>
+</div>
+
+<div class="shortstory">
+heh heh
+</div>
+<div class="bookquote">
+WHOA READ THIS THING FROM PILGRIM AT TINKER CREEK
 </div>
